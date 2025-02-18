@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    margin: auto;
+    padding: 40px;
+    background-color: bisque;
+}
+
+li{
+    list-style-type: none;
+}
+button{
+    margin-bottom: 50px;
+}
+ol{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
